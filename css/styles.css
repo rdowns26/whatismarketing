@@ -1,0 +1,113 @@
+h1 {
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    font-family: "Champagne & Limousines";
+    font-size: 400%;
+}
+
+.navbar .logo {
+    width: 40px;
+}
+
+.navbar .logo-text {
+    color: #3bafda;
+    font-family: Open Sans;
+    font-size: 20px;
+}
+
+.navbar-default .navbar-brand {
+    padding-top: 5px;
+}
+
+.navbar-default {
+    background-color: #ffffff;
+    border-color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 0px;
+}
+
+.navbar-default .navbar-nav>li>a{
+    color: #3bafda;
+    font-family: Open Sans;
+    font-size: large;
+}
+
+.cover {
+    background-size: cover;
+    background-color: #3bafda;
+    padding-bottom: 40px;
+}
+
+.cover .cover-image {
+    padding-top: 30px;
+}
+
+.cover .cover-text {
+    text-align: center;
+    color: white;
+    font-family: Open Sans;
+    line-height: 30px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.cover .btn-white {
+    background: none;
+    border-color: white;
+    border-width: 2px;
+    color: white;
+    font-family: Open Sans;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.cover .btn-white a {
+    color: white;
+}
+
+h3 {
+    font-family: Open Sans;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    line-height: 30px;
+    font-size: 16px;
+}
+
+.paragraph-link {
+    color: #3bafda;
+    font-weight: bold;
+}
+
+.anchor-text {
+    text-align: center;
+    font-weight: bold;
+}
+
+.anchor-text a {
+    color: #3bafda;
+    text-decoration: underline;
+}
+
+.anchor-text a:hover {
+    color: #434a54;
+}
+
+.modal-footer {
+    background-color:#434a54;
+    color: white;
+}
+
+p.footer-text {
+    font-size: 14px;
+    text-align:left;
+    color:#aab2bd;
+}
+
+p.footer-text a {
+    color:#aab2bd;
+}
